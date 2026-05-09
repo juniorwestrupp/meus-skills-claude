@@ -1,0 +1,23 @@
+{
+  "skill_name": "lp-launch-copy",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Preciso do copy completo de uma LP de lançamento para meu curso online de gestão de tráfego pago. O curso se chama 'Tráfego Master'. É para iniciantes que querem trabalhar com tráfego pago como freelancer ou para o próprio negócio. Preço: R$997 à vista ou 12x de R$117. Garantia de 7 dias. Bônus: planilha de otimização de campanhas (valor R$197) e grupo de suporte no WhatsApp por 3 meses (valor R$297). Tom mais descontraído e próximo. Não tenho depoimentos ainda.",
+      "expected_output": "Copy completo com headline (3 opções), subheadline, hero section, seção de problema com 4-6 pontos de dor, seção de solução com mecanismo único, autoridade, 6-10 benefícios, conteúdo do curso, prova social (templates), oferta com ancoragem de preço, bônus detalhados, garantia, FAQ com 6-8 perguntas e CTA final. Tudo em português brasileiro, tom descontraído.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Quero escrever a LP de lançamento da minha mentoria de emagrecimento feminino. Nome: 'Método Leveza'. Público: mulheres de 30-55 anos que já tentaram várias dietas e não conseguiram emagrecer de forma sustentável. Transformação: perder peso sem passar fome e sem efeito sanfona, mudando a relação com a comida. É uma mentoria em grupo de 3 meses, com encontros semanais ao vivo. Preço: R$1.997 ou 6x de R$367. Garantia de 15 dias. Bônus: receituário de 50 receitas fit (R$97), e-book de mindful eating (R$67). Tom mais acolhedor e empático. Tenho alguns depoimentos: 'Perdi 8kg em 2 meses e não passei fome nenhum dia — Maria, 42 anos' e 'Finalmente entendi minha relação com a comida — Carla, 38 anos'.",
+      "expected_output": "Copy completo com todas as seções, adaptado ao público feminino de meia-idade, tom acolhedor e empático, incorporando os depoimentos reais fornecidos de forma otimizada para máximo impacto, ancoragem de preço clara entre valor percebido e preço real.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Cria o copy de LP pra meu evento online de finanças pessoais. É uma imersão de 3 dias gratuita chamada 'Virada Financeira'. O objetivo é capturar leads e depois fazer o pitch de um curso pago no último dia. Público: pessoas entre 25-40 anos endividadas ou sem reserva de emergência. Quero focar na dor de não conseguir juntar dinheiro mesmo trabalhando muito.",
+      "expected_output": "Copy adaptado para evento gratuito (lead magnet), com foco em captura de inscrição em vez de venda direta, headline orientada ao evento, seções de problema/solução adaptadas para evento de 3 dias, CTA de inscrição gratuita com urgência de vagas limitadas.",
+      "files": []
+    }
+  ]
+}
